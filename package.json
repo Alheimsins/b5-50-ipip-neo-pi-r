@@ -1,8 +1,11 @@
 {
-  "name": "b5-50-ipip-neo-pi-r",
+  "name": "@alheimsins/b5-50-ipip-neo-pi-r",
   "description": "Module for returning Big Five 50 IPIP-NEO-PI-R items",
   "version": "1.0.0",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "author": {
     "name": "Jonas Enge",
     "email": "jonas.enge@t-fk.no",
