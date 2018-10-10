@@ -9,13 +9,13 @@ Module for returning Big Five [50 IPIP-NEO-PI-R](https://ipip.ori.org/newNEODoma
 ## Installation
 
 ```
-$ npm i b5-50-ipip-neo-pi-r
+$ npm i @alheimsins/b5-50-ipip-neo-pi-r
 ```
 
 ## Usage
 
 ```JavaScript
-const { getItems, getInfo } = require('b5-50-ipip-neo-pi-r')
+const { getItems, getInfo } = require('@alheimsins/b5-50-ipip-neo-pi-r')
 
 console.log(getItems()) // returns English
 
