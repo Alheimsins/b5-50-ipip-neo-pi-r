@@ -67,3 +67,6 @@ typings/
 # Lock files
 package-lock.json
 
+#Visual studio
+.vs
+.vs/

@@ -68,9 +68,10 @@ returns an [array with questions and choices](examples/items-en.json)
 
 ## Supported languages
 
-| Code | Name      | Translator |
-| ---- | --------- | ---------- |
-| en   | English   |            |
+| Code | Name					| Translator	|
+| ---- | ---------------------  | -------------	|
+| en   | English				|				|
+| pt-br| Portugues Brasileiro	| Matheus Muriel| (Required semantic review)
 
 ## Help wanted
 
