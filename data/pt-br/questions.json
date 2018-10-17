@@ -1,301 +1,301 @@
 [
   {
     "id": "f5987fe0-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Believe in the importance of art",
+    "text": "Acredite na importância da arte",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe1-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Have a vivid imagination",
+    "text": "Tenha uma imaginação vívida",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe2-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Tend to vote for liberal political candidates",
+    "text": "Procure votar em políticos liberais",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe3-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Carry the conversation to a higher level",
+    "text": "Leve a conversa para um nível mais elevado",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe4-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Enjoy hearing new ideas",
+    "text": "Escute novas ideias",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe5-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am not interested in abstract ideas",
+    "text": "Não estou interessado em ideias abstratas",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "f5987fe6-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Do not like art",
+    "text": "Não gosta de arte",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "f5987fe7-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Avoid philosophical discussions",
+    "text": "Evite discussões filosóficas",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "f5987fe8-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Do not enjoy going to art museums",
+    "text": "Não gosta de ir a museus de arte",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "f5987fe9-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Tend to vote for conservative political candidates",
+    "text": "Tendem a votar em candidatos políticos conservadores",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "f5987fea-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Often feel blue",
+    "text": "Muitas vezes, me sinto triste",
     "keyed": "plus",
     "domain": "N"
   },
   {
     "id": "f5987feb-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Dislike myself",
+    "text": "Não gosto de mim mesmo",
     "keyed": "plus",
     "domain": "N"
   },
   {
     "id": "f5987fec-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am often down in the dumps",
+    "text": "Muitas vezes estou para baixo",
     "keyed": "plus",
     "domain": "N"
   },
   {
     "id": "f5987fed-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Have frequent mood swings",
+    "text": "Seja sempre bem humorado",
     "keyed": "plus",
     "domain": "N"
   },
   {
     "id": "f5987fee-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Panic easily",
+    "text": "Facilmente em pânico",
     "keyed": "plus",
     "domain": "N"
   },
   {
     "id": "f5987fef-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Rarely get irritated",
+    "text": "Raramente fico irritado",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "f5987ff0-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Seldom feel blue",
+    "text": "Raramente me sinto triste",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "f5987ff1-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Feel comfortable with myself",
+    "text": "Me sinto confortável comigo mesmo",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "f5987ff2-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am not easily bothered by things",
+    "text": "Não me incomodo facilmente",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "f5987ff3-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am very pleased with myself",
+    "text": "Estou muito satisfeito comigo mesmo",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "f5987ff4-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Feel comfortable around people",
+    "text": "Sinta-se confortável com as outras pessoas",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff5-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Make friends easily",
+    "text": "Faça amigos facilmente",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff6-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am skilled in handling social situations",
+    "text": "Sou especializado em lidar com situações sociais",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff7-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am the life of the party",
+    "text": "Sou o espirito da festa",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff8-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Know how to captivate people",
+    "text": "Saiba como cativar as pessoas",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff9-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Have little to say",
+    "text": "Tenho pouco a dizer",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffa-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Keep in the background",
+    "text": "Mantenha em segundo plano",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffb-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Would describe my experiences as somewhat dull",
+    "text": "Descreveria minhas experiências como um pouco maçantes",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffc-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Don't like to draw attention to myself",
+    "text": "Não gosto de chamar atenção para mim mesmo",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffd-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Don't talk a lot",
+    "text": "Não sou de falar muito",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffe-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Am always prepared",
+    "text": "Estou sempre preparado",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5987fff-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Pay attention to details",
+    "text": "Preste atenção nos detalhes",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5988000-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Get chores done right away",
+    "text": "Obtenha tarefas prontas",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5988001-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Carry out my plans",
+    "text": "Execute meus planos",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5988002-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Make plans and stick to them",
+    "text": "Faça planos e os cumpra",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5988003-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Waste my time",
+    "text": "Perder meu tempo",
     "keyed": "minus",
     "domain": "C"
   },
   {
     "id": "f5988004-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Find it difficult to get down to work",
+    "text": "Acho difícil começar a trabalhar",
     "keyed": "minus",
     "domain": "C"
   },
   {
     "id": "f5988005-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Do just enough work to get by",
+    "text": "Basta trabalhar o suficiente para sobreviver",
     "keyed": "minus",
     "domain": "C"
   },
   {
     "id": "f5988006-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Don't see things through",
+    "text": "Não olhe para trás",
     "keyed": "minus",
     "domain": "C"
   },
   {
     "id": "f5988007-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Shirk my duties",
+    "text": "Fugir dos meus deveres",
     "keyed": "minus",
     "domain": "C"
   },
   {
     "id": "f5988008-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Have a good word for everyone",
+    "text": "Seja educado com todo mundo",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f5988009-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Believe that others have good intentions",
+    "text": "Acredite que os outros tenham boas intenções",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f598a6f0-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Respect others",
+    "text": "Respeite os outros",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f598a6f1-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Accept people as they are",
+    "text": "Aceite as pessoas como elas são",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f598a6f2-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Make people feel at ease",
+    "text": "Faça as pessoas se sentirem à vontade",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f598a6f3-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Have a sharp tongue",
+    "text": "Tenha uma língua afiada",
     "keyed": "minus",
     "domain": "A"
   },
   {
     "id": "f598a6f4-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Cut others to pieces",
+    "text": "Cortar os outros em pedaços",
     "keyed": "minus",
     "domain": "A"
   },
   {
     "id": "f598a6f5-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Suspect hidden motives in others",
+    "text": "Suspeite de motivos ocultos em outros",
     "keyed": "minus",
     "domain": "A"
   },
   {
     "id": "f598a6f6-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Get back at others",
+    "text": "Volte aos outros",
     "keyed": "minus",
     "domain": "A"
   },
   {
     "id": "f598a6f7-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Insult people",
+    "text": "Insultar pessoas",
     "keyed": "minus",
     "domain": "A"
   }
