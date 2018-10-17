@@ -1,6 +1,6 @@
 module.exports = {
   plus: [
-    {Impreciso
+    {
       text: 'Muito Impreciso',
       score: 1,
       color: 1
