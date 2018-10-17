@@ -1,6 +1,7 @@
 # IDE
 .idea
 .vscode
+.vs
 
 # Mac OS
 .DS_Store
@@ -66,7 +67,3 @@ typings/
 
 # Lock files
 package-lock.json
-
-#Visual studio
-.vs
-.vs/
