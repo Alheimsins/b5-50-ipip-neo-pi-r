@@ -16,7 +16,7 @@ module.exports.getItems = (lang = 'en', shuffle = false) => {
 
 module.exports.getInfo = () => (
   {
-    name: `b5-50 questeion IPIP NEO-PI-R`,
+    name: 'b5-50 questeion IPIP NEO-PI-R',
     id: 'b5-50-ipip-neo-pi-r',
     shortId: 'b5-50',
     time: 5,
