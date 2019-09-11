@@ -20,7 +20,7 @@ module.exports.getInfo = () => (
     id: 'b5-50-ipip-neo-pi-r',
     shortId: 'b5-50',
     time: 5,
-    questions: 120,
+    questions: 50,
     languages
   }
 )
