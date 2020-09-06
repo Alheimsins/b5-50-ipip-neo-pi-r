@@ -20,7 +20,7 @@
   ],
   "main": "index.js",
   "engines": {
-    "node": ">=12.16.1"
+    "node": ">=12.18.3"
   },
   "files": [
     "data/",
