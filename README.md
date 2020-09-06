@@ -89,7 +89,7 @@ If you want to help by translating the items to other languages this is how you 
 
 ## Related
 
-- [bigfive-web](https://github.com/Alheimsins/bigfive-web) Web frontend for bigfive tests
+- [bigfive-web](https://github.com/rubynor/bigfive-web) Web frontend for bigfive tests
 
 ## License
 
