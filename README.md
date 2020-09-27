@@ -94,6 +94,8 @@ If you want to help by translating the items to other languages this is how you 
 ## Related
 
 - [bigfive-web](https://github.com/rubynor/bigfive-web) Web frontend for bigfive tests
+- [bigfive-calculate-score](https://github.com/Alheimsins/bigfive-calculate-score) Module for calculating score
+- [b5-result-text](https://github.com/Alheimsins/b5-result-text) Create a text resume based on the score
 
 ## License
 
