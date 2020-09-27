@@ -15,7 +15,11 @@ $ npm i @alheimsins/b5-50-ipip-neo-pi-r
 ## Usage
 
 ```JavaScript
-const { getItems, getInfo } = require('@alheimsins/b5-50-ipip-neo-pi-r')
+const { getItems, getInfo, getChoices, getQuestions } = require('@alheimsins/b5-50-ipip-neo-pi-r')
+
+console.log(getChoices()) // returns choices in English
+
+console.log(getQuestions()) // returns questions in English
 
 console.log(getItems()) // returns English
 
