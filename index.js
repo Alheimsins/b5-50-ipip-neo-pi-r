@@ -36,3 +36,23 @@ module.exports.getInfo = () => (
     languages
   }
 )
+
+module.exports.getChoices = (lang = 'en') => {
+  let choices
+  try {
+    choices = require(`./data/${lang}/choices`)
+  } catch (error) {
+    throw new Error('Choices not found. Try another language input.')
+  }
+  return choices
+}
+
+module.exports.getQuestions = (lang = 'en') => {
+  let questions
+  try {
+    questions = require(`./data/${lang}/questions`)
+  } catch (error) {
+    throw new Error('Questions not found. Try another language input.')
+  }
+  return questions
+}
