@@ -1,25 +1,25 @@
 [
   {
     "id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
-    "text": "Acredite na import�ncia da arte",
+    "text": "Acredite na importáncia da arte",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "888dd864-7449-4e96-8d5c-7a439603ea91",
-    "text": "Tenha uma imagina��o v�vida",
+    "text": "Tenha uma imaginação vívida",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
-    "text": "Procure votar em pol�ticos liberais",
+    "text": "Procure votar em políticos liberais",
     "keyed": "plus",
     "domain": "O"
   },
   {
     "id": "f5987fe3-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Leve a conversa para um n�vel mais elevado",
+    "text": "Leve a conversa para um nível mais elevado",
     "keyed": "plus",
     "domain": "O"
   },
@@ -31,31 +31,31 @@
   },
   {
     "id": "b99a005c-090c-454d-a905-dd0082a33ee3",
-    "text": "N�o estou interessado em ideias abstratas",
+    "text": "Não estou interessado em ideias abstratas",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "0f7c46a9-206f-4904-878c-cc04c80b2b73",
-    "text": "N�o gosta de arte",
+    "text": "Não gosta de arte",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "95a3f20c-f933-4d19-a2c1-a7dbdf63c562",
-    "text": "Evite discuss�es filos�ficas",
+    "text": "Evite discussções filosóficas",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
-    "text": "N�o gosta de ir a museus de arte",
+    "text": "Não gosta de ir a museus de arte",
     "keyed": "minus",
     "domain": "O"
   },
   {
     "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
-    "text": "Tendem a votar em candidatos pol�ticos conservadores",
+    "text": "Tendem a votar em candidatos políticos conservadores",
     "keyed": "minus",
     "domain": "O"
   },
@@ -67,7 +67,7 @@
   },
   {
     "id": "f0a14e16-d726-47e9-a2c1-647fd3d7d52e",
-    "text": "N�o gosto de mim mesmo",
+    "text": "Não gosto de mim mesmo",
     "keyed": "plus",
     "domain": "N"
   },
@@ -85,7 +85,7 @@
   },
   {
     "id": "2f519935-92e8-48ad-9746-4a0f8b38466a",
-    "text": "Facilmente em p�nico",
+    "text": "Facilmente em pânico",
     "keyed": "plus",
     "domain": "N"
   },
@@ -103,13 +103,13 @@
   },
   {
     "id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
-    "text": "Me sinto confort�vel comigo mesmo",
+    "text": "Me sinto confortável comigo mesmo",
     "keyed": "minus",
     "domain": "N"
   },
   {
     "id": "c283c5bd-4708-432e-92c1-63213aa28f59",
-    "text": "N�o me incomodo facilmente",
+    "text": "Não me incomodo facilmente",
     "keyed": "minus",
     "domain": "N"
   },
@@ -121,19 +121,19 @@
   },
   {
     "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
-    "text": "Sinta-se confort�vel com as outras pessoas",
+    "text": "Sinta-se confortável com as outras pessoas",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "d50a597f-632b-4f7b-89e6-6d85b50fd1c9",
-    "text": "Fa�a amigos facilmente",
+    "text": "Faço amigos facilmente",
     "keyed": "plus",
     "domain": "E"
   },
   {
     "id": "f5987ff6-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Sou especializado em lidar com situa��es sociais",
+    "text": "Sou especializado em lidar com situações sociais",
     "keyed": "plus",
     "domain": "E"
   },
@@ -163,19 +163,19 @@
   },
   {
     "id": "f5987ffb-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Descreveria minhas experi�ncias como um pouco ma�antes",
+    "text": "Descreveria minhas experiências como um pouco enfadonhas",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "7e3469cc-5b19-472d-9efe-1ae4544ff533",
-    "text": "N�o gosto de chamar aten��o para mim mesmo",
+    "text": "Não gosto de chamar atenção para mim mesmo",
     "keyed": "minus",
     "domain": "E"
   },
   {
     "id": "f5987ffd-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "N�o sou de falar muito",
+    "text": "Não sou de falar muito",
     "keyed": "minus",
     "domain": "E"
   },
@@ -187,7 +187,7 @@
   },
   {
     "id": "f5987fff-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Preste aten��o nos detalhes",
+    "text": "Presto atenção nos detalhes",
     "keyed": "plus",
     "domain": "C"
   },
@@ -199,13 +199,13 @@
   },
   {
     "id": "9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9",
-    "text": "Execute meus planos",
+    "text": "Executo meus planos",
     "keyed": "plus",
     "domain": "C"
   },
   {
     "id": "f5988002-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Fa�a planos e os cumpra",
+    "text": "Faça planos e os cumpra",
     "keyed": "plus",
     "domain": "C"
   },
@@ -217,7 +217,7 @@
   },
   {
     "id": "f39aced8-60d5-4371-962e-b0d390dec3d3",
-    "text": "Acho dif�cil come�ar a trabalhar",
+    "text": "Acho difícil começar a trabalhar",
     "keyed": "minus",
     "domain": "C"
   },
@@ -229,7 +229,7 @@
   },
   {
     "id": "f5988006-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "N�o olhe para tr�s",
+    "text": "Não olhe para trás",
     "keyed": "minus",
     "domain": "C"
   },
@@ -247,7 +247,7 @@
   },
   {
     "id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
-    "text": "Acredite que os outros tenham boas inten��es",
+    "text": "Acredite que os outros tenham boas intenções",
     "keyed": "plus",
     "domain": "A"
   },
@@ -259,25 +259,25 @@
   },
   {
     "id": "f598a6f1-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Aceite as pessoas como elas s�o",
+    "text": "Aceite as pessoas como elas são",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "f598a6f2-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Fa�a as pessoas se sentirem � vontade",
+    "text": "Faça as pessoas se sentirem á vontade",
     "keyed": "plus",
     "domain": "A"
   },
   {
     "id": "027a663a-217d-4b3b-b9c7-c26498a9ab47",
-    "text": "Tenha uma l�ngua afiada",
+    "text": "Tenha uma língua afiada",
     "keyed": "minus",
     "domain": "A"
   },
   {
     "id": "f598a6f4-ca1b-11e8-99c5-7b2468b8a6ec",
-    "text": "Cortar os outros em peda�os",
+    "text": "Cortar os outros em pedaços",
     "keyed": "minus",
     "domain": "A"
   },
