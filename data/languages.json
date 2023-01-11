@@ -1,10 +1,14 @@
 [
   {
-    "id":"en",
+    "id": "en",
     "text": "English"
   },
   {
     "id": "pt-br",
-    "text": "Brazilian Portuguese" 
+    "text": "Brazilian Portuguese"
+  },
+  {
+    "id": "es",
+    "text": "Spanish"
   }
 ]
